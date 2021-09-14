@@ -4,11 +4,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
+
 /* apply styles to <header> */
 header {
     padding: 20px 35px;
@@ -138,9 +140,11 @@ section div h3 {
     color: #39a6b2;
     font-size: 23px;
 }
+
 .steps span{
     font-size: 38px;
 }
+
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -149,15 +153,19 @@ section div h3 {
     display: inline-block;
     border-bottom: 3px solid;
 }
+
 .primary-border {
     border-color: #fce138;
 }
+
 .secondary-border {
     border-color: #39a6b2;
 }
+
 .trainers {
     text-align: center;
 }
+
 .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
